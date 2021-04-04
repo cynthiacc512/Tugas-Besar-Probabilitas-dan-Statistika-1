@@ -6,4 +6,6 @@ Dalam code ini baru dilakukan data cleaning (menggunakan z-score) dan beberapa a
 <ul> 
   <li> menu.csv adalah nama dataset yang saya download dari kaggle </li>
 <ul>
+
+<br>
 Happy coding gais:))
